@@ -45,7 +45,7 @@ authors:
     orcid: 'https://orcid.org/0000-0002-5110-4462'
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.7498782
+    value: 10.5281/zenodo.8392679
     description: Zenodo repository
   - type: url
     value: >-
