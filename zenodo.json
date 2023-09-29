@@ -1,0 +1,39 @@
+{
+  "license": "CC0-1.0",
+  "title": "Accompanying data of an article by Thapa et al., 2023",
+  "version": "0-1-0",
+  "upload_type": "dataset",
+  "publication_date": "2023-09-29",
+  "language": "eng",
+  "description": "<p><b>Datasets related to an article by Thapa et al., 2023</b></p>",
+  "notes": "K. Olek and W. Pokrzywa’s work was funded by the Foundation for Polish Science and co-financed by the European Union under the European Regional Development Fund (grant First Team number POIR.04.04.00-00-5EAB/18-00). P. Thapa was supported by the National Science Centre, Poland (grant PRELUDIUM number 2021/41/N/NZ1/03086).",
+  "keywords": ["S-adenosylhomocysteine (SAH)", "S-adenosylmethionine (SAM)", "AHCY (S-adenosylhomocysteine hydrolase)", "Lifespan/Aging", "Caenorhabditis elegans"],
+  "creators": [
+    {
+      "affiliation": "Laboratory of Protein Metabolism, International Institute of Molecular and Cell Biology in Warsaw, Warsaw, Poland",
+      "name": "Pankaj Thapa",
+      "orcid": "0000-0001-5536-1768"
+    },
+        {
+      "affiliation": "Laboratory of Protein Metabolism, International Institute of Molecular and Cell Biology in Warsaw, Warsaw, Poland",
+      "name": "Katarzyna Olek",
+      "orcid": "0000-0002-1027-9426"
+    },
+        {
+      "affiliation": "Laboratory of Protein Metabolism, International Institute of Molecular and Cell Biology in Warsaw, Warsaw, Poland",
+      "name": "Agata Kowalska",
+      "orcid": "0009-0001-2552-0876"
+    },
+        {
+      "affiliation": "IMol Polish Academy of Sciences, Warsaw, Poland",
+      "name": "Remigiusz A. Serwa",
+      "orcid": "0000-0002-4684-3754"
+    },
+    {
+      "affiliation": "Laboratory of Protein Metabolism, International Institute of Molecular and Cell Biology in Warsaw, Warsaw, Poland",
+      "name": "Wojciech Pokrzywa",
+      "orcid": "0000-0002-5110-4462"
+    }
+  ],
+  "access_right": "open"
+}

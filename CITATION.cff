@@ -1,0 +1,58 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Accompanying data of an article by Thapa et al., 2023'
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Pankaj
+    family-names: Thapa
+    email: pthapa@iimcb.gov.pl
+    affiliation: >-
+      Laboratory of Protein Metabolism, International
+      Institute of Molecular and Cell Biology in Warsaw,
+      Warsaw, Poland
+    orcid: 'https://orcid.org/0000-0001-5536-1768'
+  - given-names: Katarzyna
+    family-names: Olek
+    affiliation: >-
+      Laboratory of Protein Metabolism, International
+      Institute of Molecular and Cell Biology in Warsaw,
+      Warsaw, Poland
+    orcid: 'https://orcid.org/0000-0002-1027-9426'
+  - given-names: Agata
+    family-names: Kowalska
+    affiliation: >-
+      Laboratory of Protein Metabolism, International
+      Institute of Molecular and Cell Biology in Warsaw,
+      Warsaw, Poland
+    orcid: 'https://orcid.org/0009-0001-2552-0876'
+  - given-names: Remigiusz A.
+    family-names: Serwa
+    affiliation: 'IMol Polish Academy of Sciences, Warsaw, Poland'
+    email: r.serwa@imol.institute
+    orcid: 'https://orcid.org/0000-0002-4684-3754'
+  - given-names: Wojciech
+    family-names: Pokrzywa
+    email: wpokrzywa@iimcb.gov.pl
+    affiliation: >-
+      Laboratory of Protein Metabolism, International
+      Institute of Molecular and Cell Biology in Warsaw,
+      Warsaw, Poland
+    orcid: 'https://orcid.org/0000-0002-5110-4462'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.7498782
+    description: Zenodo repository
+  - type: url
+    value: >-
+      https://github.com/PokrzywaLab/Thapa_2023_accompanying_data
+    description: GitHub repository
+repository-code: >-
+  https://github.com/PokrzywaLab/Thapa_2023_accompanying_data
+url: >-
+  https://github.com/PokrzywaLab/Thapa_2023_accompanying_data
+license: CC0-1.0
